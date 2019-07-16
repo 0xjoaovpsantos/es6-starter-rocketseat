@@ -1,0 +1,12 @@
+{
+  "name": "es6-starter-rocketseat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:joaovictorpsantos/es6-starter-rocketseat.git",
+  "author": "João Victor Pereir Santos <joaovictorsantoscpv@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.5.0",
+    "@babel/preset-env": "^7.5.4"
+  }
+}
